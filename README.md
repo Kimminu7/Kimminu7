@@ -1,7 +1,9 @@
 ## 예비 개발자 김민우 입니다!! 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+📌[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 📌
+
 
 <!--
 **Kimminu7/Kimminu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
