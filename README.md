@@ -17,5 +17,5 @@
 <hr>
 ### ✏️ Contace Me ✏️
 
-#### ![vlog](<a href="https://dimenshun.tistory.com/">vlog</a>)
+#### <a href="https://dimenshun.tistory.com/">vlog![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 
