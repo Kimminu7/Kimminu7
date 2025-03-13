@@ -16,7 +16,7 @@
 
 <hr>
 
-### ✏️ Write Blog ✏️
+### | ✏️ Write Blog ✏️ |
 
 
 #### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
