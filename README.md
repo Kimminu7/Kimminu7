@@ -16,11 +16,12 @@
 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### | ✏️ Write Blog ✏️ |
 
 
 #### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats)
 
 
