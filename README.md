@@ -1,4 +1,4 @@
-# 👋 안녕하세요~ 김민우 입니다!! 👋
+# 👋 지속 성장중인 김민우 입니다!! 👋
 
 ### | 🔨 Tech Stack 🔨 |
 
@@ -19,9 +19,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### | ✏️ Write Blog ✏️ |
+### | ✏️ Contact Me ✏️ |
 
 
 #### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
 
-
+#### ✉ rock9024@naver.com
