@@ -1,6 +1,6 @@
 # 👋 지속 성장중인 김민우 입니다!! 👋
 
-### | 💻 Tech Stack 💻 |
+### 💻 Tech Stack 💻 
 
 #### Front-end : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -19,8 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### | ✏️ Contact Me ✏️ |
-
+### ✏️ Contact Me ✏️ 
 
 #### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
 
