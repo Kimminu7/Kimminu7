@@ -21,6 +21,6 @@
 
 ## ✏️ Contact Me ✏️ 
 
-### 📖 Blog: <a href="https://dimenshun.tistory.com/"> ![vlog](https://img.shields.io/badge/tistory-vlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)</a> 
+### 📖 Vlog: <a href="https://dimenshun.tistory.com/"> ![vlog](https://img.shields.io/badge/tistory-vlog-FF5722?style=for-the-badge&logo=tistory&logoColor=white)</a> 
 
 ### 📩 Email: <img src="https://img.shields.io/badge/rockkim9024@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/rock9024@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
