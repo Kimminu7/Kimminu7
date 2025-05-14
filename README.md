@@ -21,6 +21,6 @@
 
 ### ✏️ Contact Me ✏️ 
 
-#### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
+#### <a href="https://dimenshun.tistory.com/">📖 blog: ![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
 
 #### ✉Email: rock9024@naver.com
