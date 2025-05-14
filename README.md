@@ -24,4 +24,4 @@
 
 #### <a href="https://dimenshun.tistory.com/">![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
 
-#### ✉ rock9024@naver.com
+#### ✉Email: rock9024@naver.com
