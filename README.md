@@ -19,8 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimminu7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### ✏️ Contact Me ✏️ 
+## ✏️ Contact Me ✏️ 
 
-## 📖 blog: <a href="https://dimenshun.tistory.com/"> ![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
+### 📖 blog: <a href="https://dimenshun.tistory.com/"> ![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
 
 ### ✉Email: rock9024@naver.com
