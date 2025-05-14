@@ -22,5 +22,5 @@
 ## ✏️ Contact Me ✏️ 
 
 ### 📖 blog: <a href="https://dimenshun.tistory.com/"> ![vlog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a> 
-### 📩 Gmail: <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+### 📩 Gmail: <img src="https://img.shields.io/badge/rockkim9024@gmail.com?style=for-the-badge&logo=Gmail&logoColor=white">
 ### 📩 Email: rock9024@naver.com
